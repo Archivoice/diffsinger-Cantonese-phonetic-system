@@ -1,6 +1,6 @@
 # Phoneme Info
 
-> **phoneme system taken from our nnsvs Chinese support**
+> **phoneme system based on Jyutping**
 
 ### Non-vocal phonemes
 
@@ -41,7 +41,7 @@ Consonant List: `b`,`c`,`d`,`f`,`g`,`h`,`j`,`K`,`k`,`l`,`M`,`m`,`N`,`n`,`NG`,`ng
 |   s      |        | **s**a  |
 |          |   T    | a**t**  |
 |   t      |        | **t**a  |
-|   w      |        | k**w**a |
+|   w (semivowel)|        | k**w**a |
 |   z      |        | **z**a  |
 
 ###
