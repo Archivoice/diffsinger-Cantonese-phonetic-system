@@ -1,0 +1,1088 @@
+symbols:
+- {symbol: AP, type: vowel}
+- {symbol: SP, type: vowel}
+- {symbol: cl, type: stop}
+- {symbol: mlem, type: stop}
+- {symbol: vf, type: fricative}
+- {symbol: exh, type: fricative}
+- {symbol: axh, type: fricative}
+#CA
+- {symbol: ca/b, type: stop}
+- {symbol: ca/p, type: stop}
+- {symbol: ca/m, type: nasal}
+- {symbol: ca/f, type: affricative}
+- {symbol: ca/d, type: stop}
+- {symbol: ca/t, type: stop}
+- {symbol: ca/n, type: nasal}
+- {symbol: ca/l, type: liquid}
+- {symbol: ca/z, type: fricative}
+- {symbol: ca/c, type: affricative}
+- {symbol: ca/s, type: fricative}
+- {symbol: ca/g, type: stop}
+- {symbol: ca/k, type: stop}
+- {symbol: ca/h, type: fricative}
+- {symbol: ca/w, type: semivowel}
+- {symbol: ca/j, type: semivowel}
+- {symbol: ca/a, type: vowel}
+- {symbol: ca/i, type: vowel}
+- {symbol: ca/yu, type: vowel}
+- {symbol: ca/u, type: vowel}
+- {symbol: ca/e, type: vowel}
+- {symbol: ca/oe, type: vowel}
+- {symbol: ca/eo, type: vowel}
+- {symbol: ca/iu, type: vowel}
+- {symbol: ca/ui, type: vowel}
+- {symbol: ca/ii, type: vowel}
+- {symbol: ca/U, type: vowel}
+- {symbol: ca/o, type: vowel}
+- {symbol: ca/aa, type: vowel}
+- {symbol: ca/M, type: nasal}
+- {symbol: ca/N, type: nasal}
+- {symbol: ca/NG, type: nasal}
+- {symbol: ca/ng, type: nasal}
+- {symbol: ca/y, type: semivowel}
+- {symbol: ca/P, type: stop}
+- {symbol: ca/T, type: stop}
+- {symbol: ca/K, type: stop}
+
+entries:
+- {grapheme: "a", phonemes: [ca/a]}
+- {grapheme: "i", phonemes: [ca/i]}
+- {grapheme: "yu", phonemes: [ca/yu]}
+- {grapheme: "u", phonemes: [ca/u]}
+- {grapheme: "e", phonemes: [ca/e]}
+- {grapheme: "oe", phonemes: [ca/oe]}
+- {grapheme: "o", phonemes: [ca/o]}
+- {grapheme: "aa", phonemes: [ca/aa]}
+- {grapheme: "im", phonemes: [ca/i, ca/M]}
+- {grapheme: "in", phonemes: [ca/i, ca/N]}
+- {grapheme: "ing", phonemes: [ca/i, ca/NG]}
+- {grapheme: "yun", phonemes: [ca/yu, ca/N]}
+- {grapheme: "un", phonemes: [ca/u, ca/N]}
+- {grapheme: "ung", phonemes: [ca/u, ca/NG]}
+- {grapheme: "eng", phonemes: [ca/e, ca/NG]}
+- {grapheme: "eon", phonemes: [ca/eo, ca/N]}
+- {grapheme: "oeng", phonemes: [ca/oe, ca/NG]}
+- {grapheme: "on", phonemes: [ca/o, ca/N]}
+- {grapheme: "ong", phonemes: [ca/o, ca/NG]}
+- {grapheme: "am", phonemes: [ca/a, ca/M]}
+- {grapheme: "an", phonemes: [ca/a, ca/N]}
+- {grapheme: "ang", phonemes: [ca/a, ca/NG]}
+- {grapheme: "aam", phonemes: [ca/aa, ca/M]}
+- {grapheme: "aan", phonemes: [ca/aa, ca/N]}
+- {grapheme: "aang", phonemes: [ca/aa, ca/NG]}
+- {grapheme: "ui", phonemes: [ca/ui]}
+- {grapheme: "ei", phonemes: [ca/e, ca/ii]}
+- {grapheme: "eoi", phonemes: [ca/eo, ca/ii]}
+- {grapheme: "oi", phonemes: [ca/o, ca/ii]}
+- {grapheme: "ai", phonemes: [ca/a, ca/ii]}
+- {grapheme: "aai", phonemes: [ca/aa, ca/ii]}
+- {grapheme: "iu", phonemes: [ca/iu]}
+- {grapheme: "ou", phonemes: [ca/o, ca/U]}
+- {grapheme: "au", phonemes: [ca/a, ca/U]}
+- {grapheme: "aau", phonemes: [ca/aa, ca/U]}
+- {grapheme: "ip", phonemes: [ca/i, ca/P]}
+- {grapheme: "it", phonemes: [ca/i, ca/T]}
+- {grapheme: "ik", phonemes: [ca/i, ca/K]}
+- {grapheme: "yut", phonemes: [ca/yu, ca/T]}
+- {grapheme: "ut", phonemes: [ca/u, ca/T]}
+- {grapheme: "uk", phonemes: [ca/u, ca/K]}
+- {grapheme: "ek", phonemes: [ca/e, ca/K]}
+- {grapheme: "eot", phonemes: [ca/eo, ca/T]}
+- {grapheme: "oek", phonemes: [ca/oe, ca/K]}
+- {grapheme: "ot", phonemes: [ca/o, ca/T]}
+- {grapheme: "ok", phonemes: [ca/o, ca/K]}
+- {grapheme: "ap", phonemes: [ca/a, ca/P]}
+- {grapheme: "at", phonemes: [ca/a, ca/T]}
+- {grapheme: "ak", phonemes: [ca/a, ca/K]}
+- {grapheme: "aap", phonemes: [ca/aa, ca/P]}
+- {grapheme: "aat", phonemes: [ca/aa, ca/T]}
+- {grapheme: "aak", phonemes: [ca/aa, ca/K]}
+- {grapheme: "ba", phonemes: [ca/b, ca/a]}
+- {grapheme: "bi", phonemes: [ca/b, ca/i]}
+- {grapheme: "byu", phonemes: [ca/b, ca/yu]}
+- {grapheme: "bu", phonemes: [ca/b, ca/u]}
+- {grapheme: "be", phonemes: [ca/b, ca/e]}
+- {grapheme: "boe", phonemes: [ca/b, ca/oe]}
+- {grapheme: "bo", phonemes: [ca/b, ca/o]}
+- {grapheme: "baa", phonemes: [ca/b, ca/aa]}
+- {grapheme: "bim", phonemes: [ca/b, ca/i, ca/M]}
+- {grapheme: "bin", phonemes: [ca/b, ca/i, ca/N]}
+- {grapheme: "bing", phonemes: [ca/b, ca/i, ca/NG]}
+- {grapheme: "byun", phonemes: [ca/b, ca/yu, ca/N]}
+- {grapheme: "bun", phonemes: [ca/b, ca/u, ca/N]}
+- {grapheme: "bung", phonemes: [ca/b, ca/u, ca/NG]}
+- {grapheme: "beng", phonemes: [ca/b, ca/e, ca/NG]}
+- {grapheme: "beon", phonemes: [ca/b, ca/eo, ca/N]}
+- {grapheme: "boeng", phonemes: [ca/b, ca/oe, ca/NG]}
+- {grapheme: "bon", phonemes: [ca/b, ca/o, ca/N]}
+- {grapheme: "bong", phonemes: [ca/b, ca/o, ca/NG]}
+- {grapheme: "bam", phonemes: [ca/b, ca/a, ca/M]}
+- {grapheme: "ban", phonemes: [ca/b, ca/a, ca/N]}
+- {grapheme: "bang", phonemes: [ca/b, ca/a, ca/NG]}
+- {grapheme: "baam", phonemes: [ca/b, ca/aa, ca/M]}
+- {grapheme: "baan", phonemes: [ca/b, ca/aa, ca/N]}
+- {grapheme: "baang", phonemes: [ca/b, ca/aa, ca/NG]}
+- {grapheme: "bui", phonemes: [ca/b, ca/ui]}
+- {grapheme: "bei", phonemes: [ca/b, ca/e, ca/ii]}
+- {grapheme: "beoi", phonemes: [ca/b, ca/eo, ca/ii]}
+- {grapheme: "boi", phonemes: [ca/b, ca/o, ca/ii]}
+- {grapheme: "bai", phonemes: [ca/b, ca/a, ca/ii]}
+- {grapheme: "baai", phonemes: [ca/b, ca/aa, ca/ii]}
+- {grapheme: "biu", phonemes: [ca/b, ca/iu]}
+- {grapheme: "bou", phonemes: [ca/b, ca/o, ca/U]}
+- {grapheme: "bau", phonemes: [ca/b, ca/a, ca/U]}
+- {grapheme: "baau", phonemes: [ca/b, ca/aa, ca/U]}
+- {grapheme: "bip", phonemes: [ca/b, ca/i, ca/P]}
+- {grapheme: "bit", phonemes: [ca/b, ca/i, ca/T]}
+- {grapheme: "bik", phonemes: [ca/b, ca/i, ca/K]}
+- {grapheme: "byut", phonemes: [ca/b, ca/yu, ca/T]}
+- {grapheme: "but", phonemes: [ca/b, ca/u, ca/T]}
+- {grapheme: "buk", phonemes: [ca/b, ca/u, ca/K]}
+- {grapheme: "bek", phonemes: [ca/b, ca/e, ca/K]}
+- {grapheme: "beot", phonemes: [ca/b, ca/eo, ca/T]}
+- {grapheme: "boek", phonemes: [ca/b, ca/oe, ca/K]}
+- {grapheme: "bot", phonemes: [ca/b, ca/o, ca/T]}
+- {grapheme: "bok", phonemes: [ca/b, ca/o, ca/K]}
+- {grapheme: "bap", phonemes: [ca/b, ca/a, ca/P]}
+- {grapheme: "bat", phonemes: [ca/b, ca/a, ca/T]}
+- {grapheme: "bak", phonemes: [ca/b, ca/a, ca/K]}
+- {grapheme: "baap", phonemes: [ca/b, ca/aa, ca/P]}
+- {grapheme: "baat", phonemes: [ca/b, ca/aa, ca/T]}
+- {grapheme: "baak", phonemes: [ca/b, ca/aa, ca/K]}
+- {grapheme: "da", phonemes: [ca/d, ca/a]}
+- {grapheme: "di", phonemes: [ca/d, ca/i]}
+- {grapheme: "dyu", phonemes: [ca/d, ca/yu]}
+- {grapheme: "du", phonemes: [ca/d, ca/u]}
+- {grapheme: "de", phonemes: [ca/d, ca/e]}
+- {grapheme: "doe", phonemes: [ca/d, ca/oe]}
+- {grapheme: "do", phonemes: [ca/d, ca/o]}
+- {grapheme: "daa", phonemes: [ca/d, ca/aa]}
+- {grapheme: "dim", phonemes: [ca/d, ca/i, ca/M]}
+- {grapheme: "din", phonemes: [ca/d, ca/i, ca/N]}
+- {grapheme: "ding", phonemes: [ca/d, ca/i, ca/NG]}
+- {grapheme: "dyun", phonemes: [ca/d, ca/yu, ca/N]}
+- {grapheme: "dun", phonemes: [ca/d, ca/u, ca/N]}
+- {grapheme: "dung", phonemes: [ca/d, ca/u, ca/NG]}
+- {grapheme: "deng", phonemes: [ca/d, ca/e, ca/NG]}
+- {grapheme: "deon", phonemes: [ca/d, ca/eo, ca/N]}
+- {grapheme: "doeng", phonemes: [ca/d, ca/oe, ca/NG]}
+- {grapheme: "don", phonemes: [ca/d, ca/o, ca/N]}
+- {grapheme: "dong", phonemes: [ca/d, ca/o, ca/NG]}
+- {grapheme: "dam", phonemes: [ca/d, ca/a, ca/M]}
+- {grapheme: "dan", phonemes: [ca/d, ca/a, ca/N]}
+- {grapheme: "dang", phonemes: [ca/d, ca/a, ca/NG]}
+- {grapheme: "daam", phonemes: [ca/d, ca/aa, ca/M]}
+- {grapheme: "daan", phonemes: [ca/d, ca/aa, ca/N]}
+- {grapheme: "daang", phonemes: [ca/d, ca/aa, ca/NG]}
+- {grapheme: "dui", phonemes: [ca/d, ca/ui]}
+- {grapheme: "dei", phonemes: [ca/d, ca/e, ca/ii]}
+- {grapheme: "deoi", phonemes: [ca/d, ca/eo, ca/ii]}
+- {grapheme: "doi", phonemes: [ca/d, ca/o, ca/ii]}
+- {grapheme: "dai", phonemes: [ca/d, ca/a, ca/ii]}
+- {grapheme: "daai", phonemes: [ca/d, ca/aa, ca/ii]}
+- {grapheme: "diu", phonemes: [ca/d, ca/iu]}
+- {grapheme: "dou", phonemes: [ca/d, ca/o, ca/U]}
+- {grapheme: "dau", phonemes: [ca/d, ca/a, ca/U]}
+- {grapheme: "daau", phonemes: [ca/d, ca/aa, ca/U]}
+- {grapheme: "dip", phonemes: [ca/d, ca/i, ca/P]}
+- {grapheme: "dit", phonemes: [ca/d, ca/i, ca/T]}
+- {grapheme: "dik", phonemes: [ca/d, ca/i, ca/K]}
+- {grapheme: "dyut", phonemes: [ca/d, ca/yu, ca/T]}
+- {grapheme: "dut", phonemes: [ca/d, ca/u, ca/T]}
+- {grapheme: "duk", phonemes: [ca/d, ca/u, ca/K]}
+- {grapheme: "dek", phonemes: [ca/d, ca/e, ca/K]}
+- {grapheme: "deot", phonemes: [ca/d, ca/eo, ca/T]}
+- {grapheme: "doek", phonemes: [ca/d, ca/oe, ca/K]}
+- {grapheme: "dot", phonemes: [ca/d, ca/o, ca/T]}
+- {grapheme: "dok", phonemes: [ca/d, ca/o, ca/K]}
+- {grapheme: "dap", phonemes: [ca/d, ca/a, ca/P]}
+- {grapheme: "dat", phonemes: [ca/d, ca/a, ca/T]}
+- {grapheme: "dak", phonemes: [ca/d, ca/a, ca/K]}
+- {grapheme: "daap", phonemes: [ca/d, ca/aa, ca/P]}
+- {grapheme: "daat", phonemes: [ca/d, ca/aa, ca/T]}
+- {grapheme: "daak", phonemes: [ca/d, ca/aa, ca/K]}
+- {grapheme: "ga", phonemes: [ca/g, ca/a]}
+- {grapheme: "gi", phonemes: [ca/g, ca/i]}
+- {grapheme: "gyu", phonemes: [ca/g, ca/yu]}
+- {grapheme: "gu", phonemes: [ca/g, ca/u]}
+- {grapheme: "ge", phonemes: [ca/g, ca/e]}
+- {grapheme: "goe", phonemes: [ca/g, ca/oe]}
+- {grapheme: "go", phonemes: [ca/g, ca/o]}
+- {grapheme: "gaa", phonemes: [ca/g, ca/aa]}
+- {grapheme: "gim", phonemes: [ca/g, ca/i, ca/M]}
+- {grapheme: "gin", phonemes: [ca/g, ca/i, ca/N]}
+- {grapheme: "ging", phonemes: [ca/g, ca/i, ca/NG]}
+- {grapheme: "gyun", phonemes: [ca/g, ca/yu, ca/N]}
+- {grapheme: "gun", phonemes: [ca/g, ca/u, ca/N]}
+- {grapheme: "gung", phonemes: [ca/g, ca/u, ca/NG]}
+- {grapheme: "geng", phonemes: [ca/g, ca/e, ca/NG]}
+- {grapheme: "geon", phonemes: [ca/g, ca/eo, ca/N]}
+- {grapheme: "goeng", phonemes: [ca/g, ca/oe, ca/NG]}
+- {grapheme: "gon", phonemes: [ca/g, ca/o, ca/N]}
+- {grapheme: "gong", phonemes: [ca/g, ca/o, ca/NG]}
+- {grapheme: "gam", phonemes: [ca/g, ca/a, ca/M]}
+- {grapheme: "gan", phonemes: [ca/g, ca/a, ca/N]}
+- {grapheme: "gang", phonemes: [ca/g, ca/a, ca/NG]}
+- {grapheme: "gaam", phonemes: [ca/g, ca/aa, ca/M]}
+- {grapheme: "gaan", phonemes: [ca/g, ca/aa, ca/N]}
+- {grapheme: "gaang", phonemes: [ca/g, ca/aa, ca/NG]}
+- {grapheme: "gui", phonemes: [ca/g, ca/ui]}
+- {grapheme: "gei", phonemes: [ca/g, ca/e, ca/ii]}
+- {grapheme: "geoi", phonemes: [ca/g, ca/eo, ca/ii]}
+- {grapheme: "goi", phonemes: [ca/g, ca/o, ca/ii]}
+- {grapheme: "gai", phonemes: [ca/g, ca/a, ca/ii]}
+- {grapheme: "gaai", phonemes: [ca/g, ca/aa, ca/ii]}
+- {grapheme: "giu", phonemes: [ca/g, ca/iu]}
+- {grapheme: "gou", phonemes: [ca/g, ca/o, ca/U]}
+- {grapheme: "gau", phonemes: [ca/g, ca/a, ca/U]}
+- {grapheme: "gaau", phonemes: [ca/g, ca/aa, ca/U]}
+- {grapheme: "gip", phonemes: [ca/g, ca/i, ca/P]}
+- {grapheme: "git", phonemes: [ca/g, ca/i, ca/T]}
+- {grapheme: "gik", phonemes: [ca/g, ca/i, ca/K]}
+- {grapheme: "gyut", phonemes: [ca/g, ca/yu, ca/T]}
+- {grapheme: "gut", phonemes: [ca/g, ca/u, ca/T]}
+- {grapheme: "guk", phonemes: [ca/g, ca/u, ca/K]}
+- {grapheme: "gek", phonemes: [ca/g, ca/e, ca/K]}
+- {grapheme: "geot", phonemes: [ca/g, ca/eo, ca/T]}
+- {grapheme: "goek", phonemes: [ca/g, ca/oe, ca/K]}
+- {grapheme: "got", phonemes: [ca/g, ca/o, ca/T]}
+- {grapheme: "gok", phonemes: [ca/g, ca/o, ca/K]}
+- {grapheme: "gap", phonemes: [ca/g, ca/a, ca/P]}
+- {grapheme: "gat", phonemes: [ca/g, ca/a, ca/T]}
+- {grapheme: "gak", phonemes: [ca/g, ca/a, ca/K]}
+- {grapheme: "gaap", phonemes: [ca/g, ca/aa, ca/P]}
+- {grapheme: "gaat", phonemes: [ca/g, ca/aa, ca/T]}
+- {grapheme: "gaak", phonemes: [ca/g, ca/aa, ca/K]}
+- {grapheme: "gwa", phonemes: [ca/g, ca/w, ca/a]}
+- {grapheme: "gwi", phonemes: [ca/g, ca/w, ca/i]}
+- {grapheme: "gwyu", phonemes: [ca/g, ca/w, ca/yu]}
+- {grapheme: "gwu", phonemes: [ca/g, ca/w, ca/u]}
+- {grapheme: "gwe", phonemes: [ca/g, ca/w, ca/e]}
+- {grapheme: "gwoe", phonemes: [ca/g, ca/w, ca/oe]}
+- {grapheme: "gwo", phonemes: [ca/g, ca/w, ca/o]}
+- {grapheme: "gwaa", phonemes: [ca/g, ca/w, ca/aa]}
+- {grapheme: "gwim", phonemes: [ca/g, ca/w, ca/i, ca/M]}
+- {grapheme: "gwin", phonemes: [ca/g, ca/w, ca/i, ca/N]}
+- {grapheme: "gwing", phonemes: [ca/g, ca/w, ca/i, ca/NG]}
+- {grapheme: "gwyun", phonemes: [ca/g, ca/w, ca/yu, ca/N]}
+- {grapheme: "gwun", phonemes: [ca/g, ca/w, ca/u, ca/N]}
+- {grapheme: "gwung", phonemes: [ca/g, ca/w, ca/u, ca/NG]}
+- {grapheme: "gweng", phonemes: [ca/g, ca/w, ca/e, ca/NG]}
+- {grapheme: "gweon", phonemes: [ca/g, ca/w, ca/eo, ca/N]}
+- {grapheme: "gwoeng", phonemes: [ca/g, ca/w, ca/oe, ca/NG]}
+- {grapheme: "gwon", phonemes: [ca/g, ca/w, ca/o, ca/N]}
+- {grapheme: "gwong", phonemes: [ca/g, ca/w, ca/o, ca/NG]}
+- {grapheme: "gwam", phonemes: [ca/g, ca/w, ca/a, ca/M]}
+- {grapheme: "gwan", phonemes: [ca/g, ca/w, ca/a, ca/N]}
+- {grapheme: "gwang", phonemes: [ca/g, ca/w, ca/a, ca/NG]}
+- {grapheme: "gwaam", phonemes: [ca/g, ca/w, ca/aa, ca/M]}
+- {grapheme: "gwaan", phonemes: [ca/g, ca/w, ca/aa, ca/N]}
+- {grapheme: "gwaang", phonemes: [ca/g, ca/w, ca/aa, ca/NG]}
+- {grapheme: "gwui", phonemes: [ca/g, ca/w, ca/ui]}
+- {grapheme: "gwei", phonemes: [ca/g, ca/w, ca/e, ca/ii]}
+- {grapheme: "gweoi", phonemes: [ca/g, ca/w, ca/eo, ca/ii]}
+- {grapheme: "gwoi", phonemes: [ca/g, ca/w, ca/o, ca/ii]}
+- {grapheme: "gwai", phonemes: [ca/g, ca/w, ca/a, ca/ii]}
+- {grapheme: "gwaai", phonemes: [ca/g, ca/w, ca/aa, ca/ii]}
+- {grapheme: "gwiu", phonemes: [ca/g, ca/w, ca/iu]}
+- {grapheme: "gwou", phonemes: [ca/g, ca/w, ca/o, ca/U]}
+- {grapheme: "gwau", phonemes: [ca/g, ca/w, ca/a, ca/U]}
+- {grapheme: "gwaau", phonemes: [ca/g, ca/w, ca/aa, ca/U]}
+- {grapheme: "gwip", phonemes: [ca/g, ca/w, ca/i, ca/P]}
+- {grapheme: "gwit", phonemes: [ca/g, ca/w, ca/i, ca/T]}
+- {grapheme: "gwik", phonemes: [ca/g, ca/w, ca/i, ca/K]}
+- {grapheme: "gwyut", phonemes: [ca/g, ca/w, ca/yu, ca/T]}
+- {grapheme: "gwut", phonemes: [ca/g, ca/w, ca/u, ca/T]}
+- {grapheme: "gwuk", phonemes: [ca/g, ca/w, ca/u, ca/K]}
+- {grapheme: "gwek", phonemes: [ca/g, ca/w, ca/e, ca/K]}
+- {grapheme: "gweot", phonemes: [ca/g, ca/w, ca/eo, ca/T]}
+- {grapheme: "gwoek", phonemes: [ca/g, ca/w, ca/oe, ca/K]}
+- {grapheme: "gwot", phonemes: [ca/g, ca/w, ca/o, ca/T]}
+- {grapheme: "gwok", phonemes: [ca/g, ca/w, ca/o, ca/K]}
+- {grapheme: "gwap", phonemes: [ca/g, ca/w, ca/a, ca/P]}
+- {grapheme: "gwat", phonemes: [ca/g, ca/w, ca/a, ca/T]}
+- {grapheme: "gwak", phonemes: [ca/g, ca/w, ca/a, ca/K]}
+- {grapheme: "gwaap", phonemes: [ca/g, ca/w, ca/aa, ca/P]}
+- {grapheme: "gwaat", phonemes: [ca/g, ca/w, ca/aa, ca/T]}
+- {grapheme: "gwaak", phonemes: [ca/g, ca/w, ca/aa, ca/K]}
+- {grapheme: "pa", phonemes: [ca/p, ca/a]}
+- {grapheme: "pi", phonemes: [ca/p, ca/i]}
+- {grapheme: "pyu", phonemes: [ca/p, ca/yu]}
+- {grapheme: "pu", phonemes: [ca/p, ca/u]}
+- {grapheme: "pe", phonemes: [ca/p, ca/e]}
+- {grapheme: "poe", phonemes: [ca/p, ca/oe]}
+- {grapheme: "po", phonemes: [ca/p, ca/o]}
+- {grapheme: "paa", phonemes: [ca/p, ca/aa]}
+- {grapheme: "pim", phonemes: [ca/p, ca/i, ca/M]}
+- {grapheme: "pin", phonemes: [ca/p, ca/i, ca/N]}
+- {grapheme: "ping", phonemes: [ca/p, ca/i, ca/NG]}
+- {grapheme: "pyun", phonemes: [ca/p, ca/yu, ca/N]}
+- {grapheme: "pun", phonemes: [ca/p, ca/u, ca/N]}
+- {grapheme: "pung", phonemes: [ca/p, ca/u, ca/NG]}
+- {grapheme: "peng", phonemes: [ca/p, ca/e, ca/NG]}
+- {grapheme: "peon", phonemes: [ca/p, ca/eo, ca/N]}
+- {grapheme: "poeng", phonemes: [ca/p, ca/oe, ca/NG]}
+- {grapheme: "pon", phonemes: [ca/p, ca/o, ca/N]}
+- {grapheme: "pong", phonemes: [ca/p, ca/o, ca/NG]}
+- {grapheme: "pam", phonemes: [ca/p, ca/a, ca/M]}
+- {grapheme: "pan", phonemes: [ca/p, ca/a, ca/N]}
+- {grapheme: "pang", phonemes: [ca/p, ca/a, ca/NG]}
+- {grapheme: "paam", phonemes: [ca/p, ca/aa, ca/M]}
+- {grapheme: "paan", phonemes: [ca/p, ca/aa, ca/N]}
+- {grapheme: "paang", phonemes: [ca/p, ca/aa, ca/NG]}
+- {grapheme: "pui", phonemes: [ca/p, ca/ui]}
+- {grapheme: "pei", phonemes: [ca/p, ca/e, ca/ii]}
+- {grapheme: "peoi", phonemes: [ca/p, ca/eo, ca/ii]}
+- {grapheme: "poi", phonemes: [ca/p, ca/o, ca/ii]}
+- {grapheme: "pai", phonemes: [ca/p, ca/a, ca/ii]}
+- {grapheme: "paai", phonemes: [ca/p, ca/aa, ca/ii]}
+- {grapheme: "piu", phonemes: [ca/p, ca/iu]}
+- {grapheme: "pou", phonemes: [ca/p, ca/o, ca/U]}
+- {grapheme: "pau", phonemes: [ca/p, ca/a, ca/U]}
+- {grapheme: "paau", phonemes: [ca/p, ca/aa, ca/U]}
+- {grapheme: "pip", phonemes: [ca/p, ca/i, ca/P]}
+- {grapheme: "pit", phonemes: [ca/p, ca/i, ca/T]}
+- {grapheme: "pik", phonemes: [ca/p, ca/i, ca/K]}
+- {grapheme: "pyut", phonemes: [ca/p, ca/yu, ca/T]}
+- {grapheme: "put", phonemes: [ca/p, ca/u, ca/T]}
+- {grapheme: "puk", phonemes: [ca/p, ca/u, ca/K]}
+- {grapheme: "pek", phonemes: [ca/p, ca/e, ca/K]}
+- {grapheme: "peot", phonemes: [ca/p, ca/eo, ca/T]}
+- {grapheme: "poek", phonemes: [ca/p, ca/oe, ca/K]}
+- {grapheme: "pot", phonemes: [ca/p, ca/o, ca/T]}
+- {grapheme: "pok", phonemes: [ca/p, ca/o, ca/K]}
+- {grapheme: "pap", phonemes: [ca/p, ca/a, ca/P]}
+- {grapheme: "pat", phonemes: [ca/p, ca/a, ca/T]}
+- {grapheme: "pak", phonemes: [ca/p, ca/a, ca/K]}
+- {grapheme: "paap", phonemes: [ca/p, ca/aa, ca/P]}
+- {grapheme: "paat", phonemes: [ca/p, ca/aa, ca/T]}
+- {grapheme: "paak", phonemes: [ca/p, ca/aa, ca/K]}
+- {grapheme: "ta", phonemes: [ca/t, ca/a]}
+- {grapheme: "ti", phonemes: [ca/t, ca/i]}
+- {grapheme: "tyu", phonemes: [ca/t, ca/yu]}
+- {grapheme: "tu", phonemes: [ca/t, ca/u]}
+- {grapheme: "te", phonemes: [ca/t, ca/e]}
+- {grapheme: "toe", phonemes: [ca/t, ca/oe]}
+- {grapheme: "to", phonemes: [ca/t, ca/o]}
+- {grapheme: "taa", phonemes: [ca/t, ca/aa]}
+- {grapheme: "tim", phonemes: [ca/t, ca/i, ca/M]}
+- {grapheme: "tin", phonemes: [ca/t, ca/i, ca/N]}
+- {grapheme: "ting", phonemes: [ca/t, ca/i, ca/NG]}
+- {grapheme: "tyun", phonemes: [ca/t, ca/yu, ca/N]}
+- {grapheme: "tun", phonemes: [ca/t, ca/u, ca/N]}
+- {grapheme: "tung", phonemes: [ca/t, ca/u, ca/NG]}
+- {grapheme: "teng", phonemes: [ca/t, ca/e, ca/NG]}
+- {grapheme: "teon", phonemes: [ca/t, ca/eo, ca/N]}
+- {grapheme: "toeng", phonemes: [ca/t, ca/oe, ca/NG]}
+- {grapheme: "ton", phonemes: [ca/t, ca/o, ca/N]}
+- {grapheme: "tong", phonemes: [ca/t, ca/o, ca/NG]}
+- {grapheme: "tam", phonemes: [ca/t, ca/a, ca/M]}
+- {grapheme: "tan", phonemes: [ca/t, ca/a, ca/N]}
+- {grapheme: "tang", phonemes: [ca/t, ca/a, ca/NG]}
+- {grapheme: "taam", phonemes: [ca/t, ca/aa, ca/M]}
+- {grapheme: "taan", phonemes: [ca/t, ca/aa, ca/N]}
+- {grapheme: "taang", phonemes: [ca/t, ca/aa, ca/NG]}
+- {grapheme: "tui", phonemes: [ca/t, ca/ui]}
+- {grapheme: "tei", phonemes: [ca/t, ca/e, ca/ii]}
+- {grapheme: "teoi", phonemes: [ca/t, ca/eo, ca/ii]}
+- {grapheme: "toi", phonemes: [ca/t, ca/o, ca/ii]}
+- {grapheme: "tai", phonemes: [ca/t, ca/a, ca/ii]}
+- {grapheme: "taai", phonemes: [ca/t, ca/aa, ca/ii]}
+- {grapheme: "tiu", phonemes: [ca/t, ca/iu]}
+- {grapheme: "tou", phonemes: [ca/t, ca/o, ca/U]}
+- {grapheme: "tau", phonemes: [ca/t, ca/a, ca/U]}
+- {grapheme: "taau", phonemes: [ca/t, ca/aa, ca/U]}
+- {grapheme: "tip", phonemes: [ca/t, ca/i, ca/P]}
+- {grapheme: "tit", phonemes: [ca/t, ca/i, ca/T]}
+- {grapheme: "tik", phonemes: [ca/t, ca/i, ca/K]}
+- {grapheme: "tyut", phonemes: [ca/t, ca/yu, ca/T]}
+- {grapheme: "tut", phonemes: [ca/t, ca/u, ca/T]}
+- {grapheme: "tuk", phonemes: [ca/t, ca/u, ca/K]}
+- {grapheme: "tek", phonemes: [ca/t, ca/e, ca/K]}
+- {grapheme: "teot", phonemes: [ca/t, ca/eo, ca/T]}
+- {grapheme: "toek", phonemes: [ca/t, ca/oe, ca/K]}
+- {grapheme: "tot", phonemes: [ca/t, ca/o, ca/T]}
+- {grapheme: "tok", phonemes: [ca/t, ca/o, ca/K]}
+- {grapheme: "tap", phonemes: [ca/t, ca/a, ca/P]}
+- {grapheme: "tat", phonemes: [ca/t, ca/a, ca/T]}
+- {grapheme: "tak", phonemes: [ca/t, ca/a, ca/K]}
+- {grapheme: "taap", phonemes: [ca/t, ca/aa, ca/P]}
+- {grapheme: "taat", phonemes: [ca/t, ca/aa, ca/T]}
+- {grapheme: "taak", phonemes: [ca/t, ca/aa, ca/K]}
+- {grapheme: "ka", phonemes: [ca/k, ca/a]}
+- {grapheme: "ki", phonemes: [ca/k, ca/i]}
+- {grapheme: "kyu", phonemes: [ca/k, ca/yu]}
+- {grapheme: "ku", phonemes: [ca/k, ca/u]}
+- {grapheme: "ke", phonemes: [ca/k, ca/e]}
+- {grapheme: "koe", phonemes: [ca/k, ca/oe]}
+- {grapheme: "ko", phonemes: [ca/k, ca/o]}
+- {grapheme: "kaa", phonemes: [ca/k, ca/aa]}
+- {grapheme: "kim", phonemes: [ca/k, ca/i, ca/M]}
+- {grapheme: "kin", phonemes: [ca/k, ca/i, ca/N]}
+- {grapheme: "king", phonemes: [ca/k, ca/i, ca/NG]}
+- {grapheme: "kyun", phonemes: [ca/k, ca/yu, ca/N]}
+- {grapheme: "kun", phonemes: [ca/k, ca/u, ca/N]}
+- {grapheme: "kung", phonemes: [ca/k, ca/u, ca/NG]}
+- {grapheme: "keng", phonemes: [ca/k, ca/e, ca/NG]}
+- {grapheme: "keon", phonemes: [ca/k, ca/eo, ca/N]}
+- {grapheme: "koeng", phonemes: [ca/k, ca/oe, ca/NG]}
+- {grapheme: "kon", phonemes: [ca/k, ca/o, ca/N]}
+- {grapheme: "kong", phonemes: [ca/k, ca/o, ca/NG]}
+- {grapheme: "kam", phonemes: [ca/k, ca/a, ca/M]}
+- {grapheme: "kan", phonemes: [ca/k, ca/a, ca/N]}
+- {grapheme: "kang", phonemes: [ca/k, ca/a, ca/NG]}
+- {grapheme: "kaam", phonemes: [ca/k, ca/aa, ca/M]}
+- {grapheme: "kaan", phonemes: [ca/k, ca/aa, ca/N]}
+- {grapheme: "kaang", phonemes: [ca/k, ca/aa, ca/NG]}
+- {grapheme: "kui", phonemes: [ca/k, ca/ui]}
+- {grapheme: "kei", phonemes: [ca/k, ca/e, ca/ii]}
+- {grapheme: "keoi", phonemes: [ca/k, ca/eo, ca/ii]}
+- {grapheme: "koi", phonemes: [ca/k, ca/o, ca/ii]}
+- {grapheme: "kai", phonemes: [ca/k, ca/a, ca/ii]}
+- {grapheme: "kaai", phonemes: [ca/k, ca/aa, ca/ii]}
+- {grapheme: "kiu", phonemes: [ca/k, ca/iu]}
+- {grapheme: "kou", phonemes: [ca/k, ca/o, ca/U]}
+- {grapheme: "kau", phonemes: [ca/k, ca/a, ca/U]}
+- {grapheme: "kaau", phonemes: [ca/k, ca/aa, ca/U]}
+- {grapheme: "kip", phonemes: [ca/k, ca/i, ca/P]}
+- {grapheme: "kit", phonemes: [ca/k, ca/i, ca/T]}
+- {grapheme: "kik", phonemes: [ca/k, ca/i, ca/K]}
+- {grapheme: "kyut", phonemes: [ca/k, ca/yu, ca/T]}
+- {grapheme: "kut", phonemes: [ca/k, ca/u, ca/T]}
+- {grapheme: "kuk", phonemes: [ca/k, ca/u, ca/K]}
+- {grapheme: "kek", phonemes: [ca/k, ca/e, ca/K]}
+- {grapheme: "keot", phonemes: [ca/k, ca/eo, ca/T]}
+- {grapheme: "koek", phonemes: [ca/k, ca/oe, ca/K]}
+- {grapheme: "kot", phonemes: [ca/k, ca/o, ca/T]}
+- {grapheme: "kok", phonemes: [ca/k, ca/o, ca/K]}
+- {grapheme: "kap", phonemes: [ca/k, ca/a, ca/P]}
+- {grapheme: "kat", phonemes: [ca/k, ca/a, ca/T]}
+- {grapheme: "kak", phonemes: [ca/k, ca/a, ca/K]}
+- {grapheme: "kaap", phonemes: [ca/k, ca/aa, ca/P]}
+- {grapheme: "kaat", phonemes: [ca/k, ca/aa, ca/T]}
+- {grapheme: "kaak", phonemes: [ca/k, ca/aa, ca/K]}
+- {grapheme: "kwa", phonemes: [ca/k, ca/w, ca/a]}
+- {grapheme: "kwi", phonemes: [ca/k, ca/w, ca/i]}
+- {grapheme: "kwyu", phonemes: [ca/k, ca/w, ca/yu]}
+- {grapheme: "kwu", phonemes: [ca/k, ca/w, ca/u]}
+- {grapheme: "kwe", phonemes: [ca/k, ca/w, ca/e]}
+- {grapheme: "kwoe", phonemes: [ca/k, ca/w, ca/oe]}
+- {grapheme: "kwo", phonemes: [ca/k, ca/w, ca/o]}
+- {grapheme: "kwaa", phonemes: [ca/k, ca/w, ca/aa]}
+- {grapheme: "kwim", phonemes: [ca/k, ca/w, ca/i, ca/M]}
+- {grapheme: "kwin", phonemes: [ca/k, ca/w, ca/i, ca/N]}
+- {grapheme: "kwing", phonemes: [ca/k, ca/w, ca/i, ca/NG]}
+- {grapheme: "kwyun", phonemes: [ca/k, ca/w, ca/yu, ca/N]}
+- {grapheme: "kwun", phonemes: [ca/k, ca/w, ca/u, ca/N]}
+- {grapheme: "kwung", phonemes: [ca/k, ca/w, ca/u, ca/NG]}
+- {grapheme: "kweng", phonemes: [ca/k, ca/w, ca/e, ca/NG]}
+- {grapheme: "kweon", phonemes: [ca/k, ca/w, ca/eo, ca/N]}
+- {grapheme: "kwoeng", phonemes: [ca/k, ca/w, ca/oe, ca/NG]}
+- {grapheme: "kwon", phonemes: [ca/k, ca/w, ca/o, ca/N]}
+- {grapheme: "kwong", phonemes: [ca/k, ca/w, ca/o, ca/NG]}
+- {grapheme: "kwam", phonemes: [ca/k, ca/w, ca/a, ca/M]}
+- {grapheme: "kwan", phonemes: [ca/k, ca/w, ca/a, ca/N]}
+- {grapheme: "kwang", phonemes: [ca/k, ca/w, ca/a, ca/NG]}
+- {grapheme: "kwaam", phonemes: [ca/k, ca/w, ca/aa, ca/M]}
+- {grapheme: "kwaan", phonemes: [ca/k, ca/w, ca/aa, ca/N]}
+- {grapheme: "kwaang", phonemes: [ca/k, ca/w, ca/aa, ca/NG]}
+- {grapheme: "kwui", phonemes: [ca/k, ca/w, ca/ui]}
+- {grapheme: "kwei", phonemes: [ca/k, ca/w, ca/e, ca/ii]}
+- {grapheme: "kweoi", phonemes: [ca/k, ca/w, ca/eo, ca/ii]}
+- {grapheme: "kwoi", phonemes: [ca/k, ca/w, ca/o, ca/ii]}
+- {grapheme: "kwai", phonemes: [ca/k, ca/w, ca/a, ca/ii]}
+- {grapheme: "kwaai", phonemes: [ca/k, ca/w, ca/aa, ca/ii]}
+- {grapheme: "kwiu", phonemes: [ca/k, ca/w, ca/iu]}
+- {grapheme: "kwou", phonemes: [ca/k, ca/w, ca/o, ca/U]}
+- {grapheme: "kwau", phonemes: [ca/k, ca/w, ca/a, ca/U]}
+- {grapheme: "kwaau", phonemes: [ca/k, ca/w, ca/aa, ca/U]}
+- {grapheme: "kwip", phonemes: [ca/k, ca/w, ca/i, ca/P]}
+- {grapheme: "kwit", phonemes: [ca/k, ca/w, ca/i, ca/T]}
+- {grapheme: "kwik", phonemes: [ca/k, ca/w, ca/i, ca/K]}
+- {grapheme: "kwyut", phonemes: [ca/k, ca/w, ca/yu, ca/T]}
+- {grapheme: "kwut", phonemes: [ca/k, ca/w, ca/u, ca/T]}
+- {grapheme: "kwuk", phonemes: [ca/k, ca/w, ca/u, ca/K]}
+- {grapheme: "kwek", phonemes: [ca/k, ca/w, ca/e, ca/K]}
+- {grapheme: "kweot", phonemes: [ca/k, ca/w, ca/eo, ca/T]}
+- {grapheme: "kwoek", phonemes: [ca/k, ca/w, ca/oe, ca/K]}
+- {grapheme: "kwot", phonemes: [ca/k, ca/w, ca/o, ca/T]}
+- {grapheme: "kwok", phonemes: [ca/k, ca/w, ca/o, ca/K]}
+- {grapheme: "kwap", phonemes: [ca/k, ca/w, ca/a, ca/P]}
+- {grapheme: "kwat", phonemes: [ca/k, ca/w, ca/a, ca/T]}
+- {grapheme: "kwak", phonemes: [ca/k, ca/w, ca/a, ca/K]}
+- {grapheme: "kwaap", phonemes: [ca/k, ca/w, ca/aa, ca/P]}
+- {grapheme: "kwaat", phonemes: [ca/k, ca/w, ca/aa, ca/T]}
+- {grapheme: "kwaak", phonemes: [ca/k, ca/w, ca/aa, ca/K]}
+- {grapheme: "la", phonemes: [ca/l, ca/a]}
+- {grapheme: "li", phonemes: [ca/l, ca/i]}
+- {grapheme: "lyu", phonemes: [ca/l, ca/yu]}
+- {grapheme: "lu", phonemes: [ca/l, ca/u]}
+- {grapheme: "le", phonemes: [ca/l, ca/e]}
+- {grapheme: "loe", phonemes: [ca/l, ca/oe]}
+- {grapheme: "lo", phonemes: [ca/l, ca/o]}
+- {grapheme: "laa", phonemes: [ca/l, ca/aa]}
+- {grapheme: "lim", phonemes: [ca/l, ca/i, ca/M]}
+- {grapheme: "lin", phonemes: [ca/l, ca/i, ca/N]}
+- {grapheme: "ling", phonemes: [ca/l, ca/i, ca/NG]}
+- {grapheme: "lyun", phonemes: [ca/l, ca/yu, ca/N]}
+- {grapheme: "lun", phonemes: [ca/l, ca/u, ca/N]}
+- {grapheme: "lung", phonemes: [ca/l, ca/u, ca/NG]}
+- {grapheme: "leng", phonemes: [ca/l, ca/e, ca/NG]}
+- {grapheme: "leon", phonemes: [ca/l, ca/eo, ca/N]}
+- {grapheme: "loeng", phonemes: [ca/l, ca/oe, ca/NG]}
+- {grapheme: "lon", phonemes: [ca/l, ca/o, ca/N]}
+- {grapheme: "long", phonemes: [ca/l, ca/o, ca/NG]}
+- {grapheme: "lam", phonemes: [ca/l, ca/a, ca/M]}
+- {grapheme: "lan", phonemes: [ca/l, ca/a, ca/N]}
+- {grapheme: "lang", phonemes: [ca/l, ca/a, ca/NG]}
+- {grapheme: "laam", phonemes: [ca/l, ca/aa, ca/M]}
+- {grapheme: "laan", phonemes: [ca/l, ca/aa, ca/N]}
+- {grapheme: "laang", phonemes: [ca/l, ca/aa, ca/NG]}
+- {grapheme: "lui", phonemes: [ca/l, ca/ui]}
+- {grapheme: "lei", phonemes: [ca/l, ca/e, ca/ii]}
+- {grapheme: "leoi", phonemes: [ca/l, ca/eo, ca/ii]}
+- {grapheme: "loi", phonemes: [ca/l, ca/o, ca/ii]}
+- {grapheme: "lai", phonemes: [ca/l, ca/a, ca/ii]}
+- {grapheme: "laai", phonemes: [ca/l, ca/aa, ca/ii]}
+- {grapheme: "liu", phonemes: [ca/l, ca/iu]}
+- {grapheme: "lou", phonemes: [ca/l, ca/o, ca/U]}
+- {grapheme: "lau", phonemes: [ca/l, ca/a, ca/U]}
+- {grapheme: "laau", phonemes: [ca/l, ca/aa, ca/U]}
+- {grapheme: "lip", phonemes: [ca/l, ca/i, ca/P]}
+- {grapheme: "lit", phonemes: [ca/l, ca/i, ca/T]}
+- {grapheme: "lik", phonemes: [ca/l, ca/i, ca/K]}
+- {grapheme: "lyut", phonemes: [ca/l, ca/yu, ca/T]}
+- {grapheme: "lut", phonemes: [ca/l, ca/u, ca/T]}
+- {grapheme: "luk", phonemes: [ca/l, ca/u, ca/K]}
+- {grapheme: "lek", phonemes: [ca/l, ca/e, ca/K]}
+- {grapheme: "leot", phonemes: [ca/l, ca/eo, ca/T]}
+- {grapheme: "loek", phonemes: [ca/l, ca/oe, ca/K]}
+- {grapheme: "lot", phonemes: [ca/l, ca/o, ca/T]}
+- {grapheme: "lok", phonemes: [ca/l, ca/o, ca/K]}
+- {grapheme: "lap", phonemes: [ca/l, ca/a, ca/P]}
+- {grapheme: "lat", phonemes: [ca/l, ca/a, ca/T]}
+- {grapheme: "lak", phonemes: [ca/l, ca/a, ca/K]}
+- {grapheme: "laap", phonemes: [ca/l, ca/aa, ca/P]}
+- {grapheme: "laat", phonemes: [ca/l, ca/aa, ca/T]}
+- {grapheme: "laak", phonemes: [ca/l, ca/aa, ca/K]}
+- {grapheme: "wa, ca/", phonemes: [ca/w, ca/a]}
+- {grapheme: "wi", phonemes: [ca/w, ca/i]}
+- {grapheme: "wyu", phonemes: [ca/w, ca/yu]}
+- {grapheme: "wu", phonemes: [ca/w, ca/u]}
+- {grapheme: "we", phonemes: [ca/w, ca/e]}
+- {grapheme: "woe", phonemes: [ca/w, ca/oe]}
+- {grapheme: "wo", phonemes: [ca/w, ca/o]}
+- {grapheme: "waa", phonemes: [ca/w, ca/aa]}
+- {grapheme: "wim", phonemes: [ca/w, ca/i, ca/M]}
+- {grapheme: "win", phonemes: [ca/w, ca/i, ca/N]}
+- {grapheme: "wing", phonemes: [ca/w, ca/i, ca/NG]}
+- {grapheme: "wyun", phonemes: [ca/w, ca/yu, ca/N]}
+- {grapheme: "wun", phonemes: [ca/w, ca/u, ca/N]}
+- {grapheme: "wung", phonemes: [ca/w, ca/u, ca/NG]}
+- {grapheme: "weng", phonemes: [ca/w, ca/e, ca/NG]}
+- {grapheme: "weon", phonemes: [ca/w, ca/eo, ca/N]}
+- {grapheme: "woeng", phonemes: [ca/w, ca/oe, ca/NG]}
+- {grapheme: "won", phonemes: [ca/w, ca/o, ca/N]}
+- {grapheme: "wong", phonemes: [ca/w, ca/o, ca/NG]}
+- {grapheme: "wam", phonemes: [ca/w, ca/a, ca/M]}
+- {grapheme: "wan", phonemes: [ca/w, ca/a, ca/N]}
+- {grapheme: "wang", phonemes: [ca/w, ca/a, ca/NG]}
+- {grapheme: "waam", phonemes: [ca/w, ca/aa, ca/M]}
+- {grapheme: "waan", phonemes: [ca/w, ca/aa, ca/N]}
+- {grapheme: "waang", phonemes: [ca/w, ca/aa, ca/NG]}
+- {grapheme: "wui", phonemes: [ca/w, ca/ui]}
+- {grapheme: "wei", phonemes: [ca/w, ca/e, ca/ii]}
+- {grapheme: "weoi", phonemes: [ca/w, ca/eo, ca/ii]}
+- {grapheme: "woi", phonemes: [ca/w, ca/o, ca/ii]}
+- {grapheme: "wai", phonemes: [ca/w, ca/a, ca/ii]}
+- {grapheme: "waai", phonemes: [ca/w, ca/aa, ca/ii]}
+- {grapheme: "wiu", phonemes: [ca/w, ca/iu]}
+- {grapheme: "wou", phonemes: [ca/w, ca/o, ca/U]}
+- {grapheme: "wau", phonemes: [ca/w, ca/a, ca/U]}
+- {grapheme: "waau", phonemes: [ca/w, ca/aa, ca/U]}
+- {grapheme: "wip", phonemes: [ca/w, ca/i, ca/P]}
+- {grapheme: "wit", phonemes: [ca/w, ca/i, ca/T]}
+- {grapheme: "wik", phonemes: [ca/w, ca/i, ca/K]}
+- {grapheme: "wyut", phonemes: [ca/w, ca/yu, ca/T]}
+- {grapheme: "wut", phonemes: [ca/w, ca/u, ca/T]}
+- {grapheme: "wuk", phonemes: [ca/w, ca/u, ca/K]}
+- {grapheme: "wek", phonemes: [ca/w, ca/e, ca/K]}
+- {grapheme: "weot", phonemes: [ca/w, ca/eo, ca/T]}
+- {grapheme: "woek", phonemes: [ca/w, ca/oe, ca/K]}
+- {grapheme: "wot", phonemes: [ca/w, ca/o, ca/T]}
+- {grapheme: "wok", phonemes: [ca/w, ca/o, ca/K]}
+- {grapheme: "wap", phonemes: [ca/w, ca/a, ca/P]}
+- {grapheme: "wat", phonemes: [ca/w, ca/a, ca/T]}
+- {grapheme: "wak", phonemes: [ca/w, ca/a, ca/K]}
+- {grapheme: "waap", phonemes: [ca/w, ca/aa, ca/P]}
+- {grapheme: "waat", phonemes: [ca/w, ca/aa, ca/T]}
+- {grapheme: "waak", phonemes: [ca/w, ca/aa, ca/K]}
+- {grapheme: "ja", phonemes: [ca/j, ca/a]}
+- {grapheme: "ji", phonemes: [ca/j, ca/i]}
+- {grapheme: "jyu", phonemes: [ca/j, ca/yu]}
+- {grapheme: "ju", phonemes: [ca/j, ca/u]}
+- {grapheme: "je", phonemes: [ca/j, ca/e]}
+- {grapheme: "joe", phonemes: [ca/j, ca/oe]}
+- {grapheme: "jo", phonemes: [ca/j, ca/o]}
+- {grapheme: "jaa", phonemes: [ca/j, ca/aa]}
+- {grapheme: "jim", phonemes: [ca/j, ca/i, ca/M]}
+- {grapheme: "jin", phonemes: [ca/j, ca/i, ca/N]}
+- {grapheme: "jing", phonemes: [ca/j, ca/i, ca/NG]}
+- {grapheme: "jyun", phonemes: [ca/j, ca/yu, ca/N]}
+- {grapheme: "jun", phonemes: [ca/j, ca/u, ca/N]}
+- {grapheme: "jung", phonemes: [ca/j, ca/u, ca/NG]}
+- {grapheme: "jeng", phonemes: [ca/j, ca/e, ca/NG]}
+- {grapheme: "jeon", phonemes: [ca/j, ca/eo, ca/N]}
+- {grapheme: "joeng", phonemes: [ca/j, ca/oe, ca/NG]}
+- {grapheme: "jon", phonemes: [ca/j, ca/o, ca/N]}
+- {grapheme: "jong", phonemes: [ca/j, ca/o, ca/NG]}
+- {grapheme: "jam", phonemes: [ca/j, ca/a, ca/M]}
+- {grapheme: "jan", phonemes: [ca/j, ca/a, ca/N]}
+- {grapheme: "jang", phonemes: [ca/j, ca/a, ca/NG]}
+- {grapheme: "jaam", phonemes: [ca/j, ca/aa, ca/M]}
+- {grapheme: "jaan", phonemes: [ca/j, ca/aa, ca/N]}
+- {grapheme: "jaang", phonemes: [ca/j, ca/aa, ca/NG]}
+- {grapheme: "jui", phonemes: [ca/j, ca/ui]}
+- {grapheme: "jei", phonemes: [ca/j, ca/e, ca/ii]}
+- {grapheme: "jeoi", phonemes: [ca/j, ca/eo, ca/ii]}
+- {grapheme: "joi", phonemes: [ca/j, ca/o, ca/ii]}
+- {grapheme: "jai", phonemes: [ca/j, ca/a, ca/ii]}
+- {grapheme: "jaai", phonemes: [ca/j, ca/aa, ca/ii]}
+- {grapheme: "jiu", phonemes: [ca/j, ca/iu]}
+- {grapheme: "jou", phonemes: [ca/j, ca/o, ca/U]}
+- {grapheme: "jau", phonemes: [ca/j, ca/a, ca/U]}
+- {grapheme: "jaau", phonemes: [ca/j, ca/aa, ca/U]}
+- {grapheme: "jip", phonemes: [ca/j, ca/i, ca/P]}
+- {grapheme: "jit", phonemes: [ca/j, ca/i, ca/T]}
+- {grapheme: "jik", phonemes: [ca/j, ca/i, ca/K]}
+- {grapheme: "jyut", phonemes: [ca/j, ca/yu, ca/T]}
+- {grapheme: "jut", phonemes: [ca/j, ca/u, ca/T]}
+- {grapheme: "juk", phonemes: [ca/j, ca/u, ca/K]}
+- {grapheme: "jek", phonemes: [ca/j, ca/e, ca/K]}
+- {grapheme: "jeot", phonemes: [ca/j, ca/eo, ca/T]}
+- {grapheme: "joek", phonemes: [ca/j, ca/oe, ca/K]}
+- {grapheme: "jot", phonemes: [ca/j, ca/o, ca/T]}
+- {grapheme: "jok", phonemes: [ca/j, ca/o, ca/K]}
+- {grapheme: "jap", phonemes: [ca/j, ca/a, ca/P]}
+- {grapheme: "jat", phonemes: [ca/j, ca/a, ca/T]}
+- {grapheme: "jak", phonemes: [ca/j, ca/a, ca/K]}
+- {grapheme: "jaap", phonemes: [ca/j, ca/aa, ca/P]}
+- {grapheme: "jaat", phonemes: [ca/j, ca/aa, ca/T]}
+- {grapheme: "jaak", phonemes: [ca/j, ca/aa, ca/K]}
+- {grapheme: "ma", phonemes: [ca/m, ca/a]}
+- {grapheme: "mi", phonemes: [ca/m, ca/i]}
+- {grapheme: "myu", phonemes: [ca/m, ca/yu]}
+- {grapheme: "mu", phonemes: [ca/m, ca/u]}
+- {grapheme: "me", phonemes: [ca/m, ca/e]}
+- {grapheme: "moe", phonemes: [ca/m, ca/oe]}
+- {grapheme: "mo", phonemes: [ca/m, ca/o]}
+- {grapheme: "maa", phonemes: [ca/m, ca/aa]}
+- {grapheme: "mim", phonemes: [ca/m, ca/i, ca/M]}
+- {grapheme: "min", phonemes: [ca/m, ca/i, ca/N]}
+- {grapheme: "ming", phonemes: [ca/m, ca/i, ca/NG]}
+- {grapheme: "myun", phonemes: [ca/m, ca/yu, ca/N]}
+- {grapheme: "mun", phonemes: [ca/m, ca/u, ca/N]}
+- {grapheme: "mung", phonemes: [ca/m, ca/u, ca/NG]}
+- {grapheme: "meng", phonemes: [ca/m, ca/e, ca/NG]}
+- {grapheme: "meon", phonemes: [ca/m, ca/eo, ca/N]}
+- {grapheme: "moeng", phonemes: [ca/m, ca/oe, ca/NG]}
+- {grapheme: "mon", phonemes: [ca/m, ca/o, ca/N]}
+- {grapheme: "mong", phonemes: [ca/m, ca/o, ca/NG]}
+- {grapheme: "mam", phonemes: [ca/m, ca/a, ca/M]}
+- {grapheme: "man", phonemes: [ca/m, ca/a, ca/N]}
+- {grapheme: "mang", phonemes: [ca/m, ca/a, ca/NG]}
+- {grapheme: "maam", phonemes: [ca/m, ca/aa, ca/M]}
+- {grapheme: "maan", phonemes: [ca/m, ca/aa, ca/N]}
+- {grapheme: "maang", phonemes: [ca/m, ca/aa, ca/NG]}
+- {grapheme: "mui", phonemes: [ca/m, ca/ui]}
+- {grapheme: "mei", phonemes: [ca/m, ca/e, ca/ii]}
+- {grapheme: "meoi", phonemes: [ca/m, ca/eo, ca/ii]}
+- {grapheme: "moi", phonemes: [ca/m, ca/o, ca/ii]}
+- {grapheme: "mai", phonemes: [ca/m, ca/a, ca/ii]}
+- {grapheme: "maai", phonemes: [ca/m, ca/aa, ca/ii]}
+- {grapheme: "miu", phonemes: [ca/m, ca/iu]}
+- {grapheme: "mou", phonemes: [ca/m, ca/o, ca/U]}
+- {grapheme: "mau", phonemes: [ca/m, ca/a, ca/U]}
+- {grapheme: "maau", phonemes: [ca/m, ca/aa, ca/U]}
+- {grapheme: "mip", phonemes: [ca/m, ca/i, ca/P]}
+- {grapheme: "mit", phonemes: [ca/m, ca/i, ca/T]}
+- {grapheme: "mik", phonemes: [ca/m, ca/i, ca/K]}
+- {grapheme: "myut", phonemes: [ca/m, ca/yu, ca/T]}
+- {grapheme: "mut", phonemes: [ca/m, ca/u, ca/T]}
+- {grapheme: "muk", phonemes: [ca/m, ca/u, ca/K]}
+- {grapheme: "mek", phonemes: [ca/m, ca/e, ca/K]}
+- {grapheme: "meot", phonemes: [ca/m, ca/eo, ca/T]}
+- {grapheme: "moek", phonemes: [ca/m, ca/oe, ca/K]}
+- {grapheme: "mot", phonemes: [ca/m, ca/o, ca/T]}
+- {grapheme: "mok", phonemes: [ca/m, ca/o, ca/K]}
+- {grapheme: "map", phonemes: [ca/m, ca/a, ca/P]}
+- {grapheme: "mat", phonemes: [ca/m, ca/a, ca/T]}
+- {grapheme: "mak", phonemes: [ca/m, ca/a, ca/K]}
+- {grapheme: "maap", phonemes: [ca/m, ca/aa, ca/P]}
+- {grapheme: "maat", phonemes: [ca/m, ca/aa, ca/T]}
+- {grapheme: "maak", phonemes: [ca/m, ca/aa, ca/K]}
+- {grapheme: "na", phonemes: [ca/n, ca/a]}
+- {grapheme: "ni", phonemes: [ca/n, ca/i]}
+- {grapheme: "nyu", phonemes: [ca/n, ca/yu]}
+- {grapheme: "nu", phonemes: [ca/n, ca/u]}
+- {grapheme: "ne", phonemes: [ca/n, ca/e]}
+- {grapheme: "noe", phonemes: [ca/n, ca/oe]}
+- {grapheme: "no", phonemes: [ca/n, ca/o]}
+- {grapheme: "naa", phonemes: [ca/n, ca/aa]}
+- {grapheme: "nim", phonemes: [ca/n, ca/i, ca/M]}
+- {grapheme: "nin", phonemes: [ca/n, ca/i, ca/N]}
+- {grapheme: "ning", phonemes: [ca/n, ca/i, ca/NG]}
+- {grapheme: "nyun", phonemes: [ca/n, ca/yu, ca/N]}
+- {grapheme: "nun", phonemes: [ca/n, ca/u, ca/N]}
+- {grapheme: "nung", phonemes: [ca/n, ca/u, ca/NG]}
+- {grapheme: "neng", phonemes: [ca/n, ca/e, ca/NG]}
+- {grapheme: "neon", phonemes: [ca/n, ca/eo, ca/N]}
+- {grapheme: "noeng", phonemes: [ca/n, ca/oe, ca/NG]}
+- {grapheme: "non", phonemes: [ca/n, ca/o, ca/N]}
+- {grapheme: "nong", phonemes: [ca/n, ca/o, ca/NG]}
+- {grapheme: "nam", phonemes: [ca/n, ca/a, ca/M]}
+- {grapheme: "nan", phonemes: [ca/n, ca/a, ca/N]}
+- {grapheme: "nang", phonemes: [ca/n, ca/a, ca/NG]}
+- {grapheme: "naam", phonemes: [ca/n, ca/aa, ca/M]}
+- {grapheme: "naan", phonemes: [ca/n, ca/aa, ca/N]}
+- {grapheme: "naang", phonemes: [ca/n, ca/aa, ca/NG]}
+- {grapheme: "nui", phonemes: [ca/n, ca/ui]}
+- {grapheme: "nei", phonemes: [ca/n, ca/e, ca/ii]}
+- {grapheme: "neoi", phonemes: [ca/n, ca/eo, ca/ii]}
+- {grapheme: "noi", phonemes: [ca/n, ca/o, ca/ii]}
+- {grapheme: "nai", phonemes: [ca/n, ca/a, ca/ii]}
+- {grapheme: "naai", phonemes: [ca/n, ca/aa, ca/ii]}
+- {grapheme: "niu", phonemes: [ca/n, ca/iu]}
+- {grapheme: "nou", phonemes: [ca/n, ca/o, ca/U]}
+- {grapheme: "nau", phonemes: [ca/n, ca/a, ca/U]}
+- {grapheme: "naau", phonemes: [ca/n, ca/aa, ca/U]}
+- {grapheme: "nip", phonemes: [ca/n, ca/i, ca/P]}
+- {grapheme: "nit", phonemes: [ca/n, ca/i, ca/T]}
+- {grapheme: "nik", phonemes: [ca/n, ca/i, ca/K]}
+- {grapheme: "nyut", phonemes: [ca/n, ca/yu, ca/T]}
+- {grapheme: "nut", phonemes: [ca/n, ca/u, ca/T]}
+- {grapheme: "nuk", phonemes: [ca/n, ca/u, ca/K]}
+- {grapheme: "nek", phonemes: [ca/n, ca/e, ca/K]}
+- {grapheme: "neot", phonemes: [ca/n, ca/eo, ca/T]}
+- {grapheme: "noek", phonemes: [ca/n, ca/oe, ca/K]}
+- {grapheme: "not", phonemes: [ca/n, ca/o, ca/T]}
+- {grapheme: "nok", phonemes: [ca/n, ca/o, ca/K]}
+- {grapheme: "nap", phonemes: [ca/n, ca/a, ca/P]}
+- {grapheme: "nat", phonemes: [ca/n, ca/a, ca/T]}
+- {grapheme: "nak", phonemes: [ca/n, ca/a, ca/K]}
+- {grapheme: "naap", phonemes: [ca/n, ca/aa, ca/P]}
+- {grapheme: "naat", phonemes: [ca/n, ca/aa, ca/T]}
+- {grapheme: "naak", phonemes: [ca/n, ca/aa, ca/K]}
+- {grapheme: "nga", phonemes: [ca/ng, ca/a]}
+- {grapheme: "ngi", phonemes: [ca/ng, ca/i]}
+- {grapheme: "ngyu", phonemes: [ca/ng, ca/yu]}
+- {grapheme: "ngu", phonemes: [ca/ng, ca/u]}
+- {grapheme: "nge", phonemes: [ca/ng, ca/e]}
+- {grapheme: "ngoe", phonemes: [ca/ng, ca/oe]}
+- {grapheme: "ngo", phonemes: [ca/ng, ca/o]}
+- {grapheme: "ngaa", phonemes: [ca/ng, ca/aa]}
+- {grapheme: "ngim", phonemes: [ca/ng, ca/i, ca/M]}
+- {grapheme: "ngin", phonemes: [ca/ng, ca/i, ca/N]}
+- {grapheme: "nging", phonemes: [ca/ng, ca/i, ca/NG]}
+- {grapheme: "ngyun", phonemes: [ca/ng, ca/yu, ca/N]}
+- {grapheme: "ngun", phonemes: [ca/ng, ca/u, ca/N]}
+- {grapheme: "ngung", phonemes: [ca/ng, ca/u, ca/NG]}
+- {grapheme: "ngeng", phonemes: [ca/ng, ca/e, ca/NG]}
+- {grapheme: "ngeon", phonemes: [ca/ng, ca/eo, ca/N]}
+- {grapheme: "ngoeng", phonemes: [ca/ng, ca/oe, ca/NG]}
+- {grapheme: "ngon", phonemes: [ca/ng, ca/o, ca/N]}
+- {grapheme: "ngong", phonemes: [ca/ng, ca/o, ca/NG]}
+- {grapheme: "ngam", phonemes: [ca/ng, ca/a, ca/M]}
+- {grapheme: "ngan", phonemes: [ca/ng, ca/a, ca/N]}
+- {grapheme: "ngang", phonemes: [ca/ng, ca/a, ca/NG]}
+- {grapheme: "ngaam", phonemes: [ca/ng, ca/aa, ca/M]}
+- {grapheme: "ngaan", phonemes: [ca/ng, ca/aa, ca/N]}
+- {grapheme: "ngaang", phonemes: [ca/ng, ca/aa, ca/NG]}
+- {grapheme: "ngui", phonemes: [ca/ng, ca/ui]}
+- {grapheme: "ngei", phonemes: [ca/ng, ca/e, ca/ii]}
+- {grapheme: "ngeoi", phonemes: [ca/ng, ca/eo, ca/ii]}
+- {grapheme: "ngoi", phonemes: [ca/ng, ca/o, ca/ii]}
+- {grapheme: "ngai", phonemes: [ca/ng, ca/a, ca/ii]}
+- {grapheme: "ngaai", phonemes: [ca/ng, ca/aa, ca/ii]}
+- {grapheme: "ngiu", phonemes: [ca/ng, ca/iu]}
+- {grapheme: "ngou", phonemes: [ca/ng, ca/o, ca/U]}
+- {grapheme: "ngau", phonemes: [ca/ng, ca/a, ca/U]}
+- {grapheme: "ngaau", phonemes: [ca/ng, ca/aa, ca/U]}
+- {grapheme: "ngip", phonemes: [ca/ng, ca/i, ca/P]}
+- {grapheme: "ngit", phonemes: [ca/ng, ca/i, ca/T]}
+- {grapheme: "ngik", phonemes: [ca/ng, ca/i, ca/K]}
+- {grapheme: "ngyut", phonemes: [ca/ng, ca/yu, ca/T]}
+- {grapheme: "ngut", phonemes: [ca/ng, ca/u, ca/T]}
+- {grapheme: "nguk", phonemes: [ca/ng, ca/u, ca/K]}
+- {grapheme: "ngek", phonemes: [ca/ng, ca/e, ca/K]}
+- {grapheme: "ngeot", phonemes: [ca/ng, ca/eo, ca/T]}
+- {grapheme: "ngoek", phonemes: [ca/ng, ca/oe, ca/K]}
+- {grapheme: "ngot", phonemes: [ca/ng, ca/o, ca/T]}
+- {grapheme: "ngok", phonemes: [ca/ng, ca/o, ca/K]}
+- {grapheme: "ngap", phonemes: [ca/ng, ca/a, ca/P]}
+- {grapheme: "ngat", phonemes: [ca/ng, ca/a, ca/T]}
+- {grapheme: "ngak", phonemes: [ca/ng, ca/a, ca/K]}
+- {grapheme: "ngaap", phonemes: [ca/ng, ca/aa, ca/P]}
+- {grapheme: "ngaat", phonemes: [ca/ng, ca/aa, ca/T]}
+- {grapheme: "ngaak", phonemes: [ca/ng, ca/aa, ca/K]}
+- {grapheme: "sa", phonemes: [ca/s, ca/a]}
+- {grapheme: "si", phonemes: [ca/s, ca/i]}
+- {grapheme: "syu", phonemes: [ca/s, ca/yu]}
+- {grapheme: "su", phonemes: [ca/s, ca/u]}
+- {grapheme: "se", phonemes: [ca/s, ca/e]}
+- {grapheme: "soe", phonemes: [ca/s, ca/oe]}
+- {grapheme: "so", phonemes: [ca/s, ca/o]}
+- {grapheme: "saa", phonemes: [ca/s, ca/aa]}
+- {grapheme: "sim", phonemes: [ca/s, ca/i, ca/M]}
+- {grapheme: "sin", phonemes: [ca/s, ca/i, ca/N]}
+- {grapheme: "sing", phonemes: [ca/s, ca/i, ca/NG]}
+- {grapheme: "syun", phonemes: [ca/s, ca/yu, ca/N]}
+- {grapheme: "sun", phonemes: [ca/s, ca/u, ca/N]}
+- {grapheme: "sung", phonemes: [ca/s, ca/u, ca/NG]}
+- {grapheme: "seng", phonemes: [ca/s, ca/e, ca/NG]}
+- {grapheme: "seon", phonemes: [ca/s, ca/eo, ca/N]}
+- {grapheme: "soeng", phonemes: [ca/s, ca/oe, ca/NG]}
+- {grapheme: "son", phonemes: [ca/s, ca/o, ca/N]}
+- {grapheme: "song", phonemes: [ca/s, ca/o, ca/NG]}
+- {grapheme: "sam", phonemes: [ca/s, ca/a, ca/M]}
+- {grapheme: "san", phonemes: [ca/s, ca/a, ca/N]}
+- {grapheme: "sang", phonemes: [ca/s, ca/a, ca/NG]}
+- {grapheme: "saam", phonemes: [ca/s, ca/aa, ca/M]}
+- {grapheme: "saan", phonemes: [ca/s, ca/aa, ca/N]}
+- {grapheme: "saang", phonemes: [ca/s, ca/aa, ca/NG]}
+- {grapheme: "sui", phonemes: [ca/s, ca/ui]}
+- {grapheme: "sei", phonemes: [ca/s, ca/e, ca/ii]}
+- {grapheme: "seoi", phonemes: [ca/s, ca/eo, ca/ii]}
+- {grapheme: "soi", phonemes: [ca/s, ca/o, ca/ii]}
+- {grapheme: "sai", phonemes: [ca/s, ca/a, ca/ii]}
+- {grapheme: "saai", phonemes: [ca/s, ca/aa, ca/ii]}
+- {grapheme: "siu", phonemes: [ca/s, ca/iu]}
+- {grapheme: "sou", phonemes: [ca/s, ca/o, ca/U]}
+- {grapheme: "sau", phonemes: [ca/s, ca/a, ca/U]}
+- {grapheme: "saau", phonemes: [ca/s, ca/aa, ca/U]}
+- {grapheme: "sip", phonemes: [ca/s, ca/i, ca/P]}
+- {grapheme: "sit", phonemes: [ca/s, ca/i, ca/T]}
+- {grapheme: "sik", phonemes: [ca/s, ca/i, ca/K]}
+- {grapheme: "syut", phonemes: [ca/s, ca/yu, ca/T]}
+- {grapheme: "sut", phonemes: [ca/s, ca/u, ca/T]}
+- {grapheme: "suk", phonemes: [ca/s, ca/u, ca/K]}
+- {grapheme: "sek", phonemes: [ca/s, ca/e, ca/K]}
+- {grapheme: "seot", phonemes: [ca/s, ca/eo, ca/T]}
+- {grapheme: "soek", phonemes: [ca/s, ca/oe, ca/K]}
+- {grapheme: "sot", phonemes: [ca/s, ca/o, ca/T]}
+- {grapheme: "sok", phonemes: [ca/s, ca/o, ca/K]}
+- {grapheme: "sap", phonemes: [ca/s, ca/a, ca/P]}
+- {grapheme: "sat", phonemes: [ca/s, ca/a, ca/T]}
+- {grapheme: "sak", phonemes: [ca/s, ca/a, ca/K]}
+- {grapheme: "saap", phonemes: [ca/s, ca/aa, ca/P]}
+- {grapheme: "saat", phonemes: [ca/s, ca/aa, ca/T]}
+- {grapheme: "saak", phonemes: [ca/s, ca/aa, ca/K]}
+- {grapheme: "fa", phonemes: [ca/f, ca/a]}
+- {grapheme: "fi", phonemes: [ca/f, ca/i]}
+- {grapheme: "fyu", phonemes: [ca/f, ca/yu]}
+- {grapheme: "fu", phonemes: [ca/f, ca/u]}
+- {grapheme: "fe", phonemes: [ca/f, ca/e]}
+- {grapheme: "foe", phonemes: [ca/f, ca/oe]}
+- {grapheme: "fo", phonemes: [ca/f, ca/o]}
+- {grapheme: "faa", phonemes: [ca/f, ca/aa]}
+- {grapheme: "fim", phonemes: [ca/f, ca/i, ca/M]}
+- {grapheme: "fin", phonemes: [ca/f, ca/i, ca/N]}
+- {grapheme: "fing", phonemes: [ca/f, ca/i, ca/NG]}
+- {grapheme: "fyun", phonemes: [ca/f, ca/yu, ca/N]}
+- {grapheme: "fun", phonemes: [ca/f, ca/u, ca/N]}
+- {grapheme: "fung", phonemes: [ca/f, ca/u, ca/NG]}
+- {grapheme: "feng", phonemes: [ca/f, ca/e, ca/NG]}
+- {grapheme: "feon", phonemes: [ca/f, ca/eo, ca/N]}
+- {grapheme: "foeng", phonemes: [ca/f, ca/oe, ca/NG]}
+- {grapheme: "fon", phonemes: [ca/f, ca/o, ca/N]}
+- {grapheme: "fong", phonemes: [ca/f, ca/o, ca/NG]}
+- {grapheme: "fam", phonemes: [ca/f, ca/a, ca/M]}
+- {grapheme: "fan", phonemes: [ca/f, ca/a, ca/N]}
+- {grapheme: "fang", phonemes: [ca/f, ca/a, ca/NG]}
+- {grapheme: "faam", phonemes: [ca/f, ca/aa, ca/M]}
+- {grapheme: "faan", phonemes: [ca/f, ca/aa, ca/N]}
+- {grapheme: "faang", phonemes: [ca/f, ca/aa, ca/NG]}
+- {grapheme: "fui", phonemes: [ca/f, ca/ui]}
+- {grapheme: "fei", phonemes: [ca/f, ca/e, ca/ii]}
+- {grapheme: "feoi", phonemes: [ca/f, ca/eo, ca/ii]}
+- {grapheme: "foi", phonemes: [ca/f, ca/o, ca/ii]}
+- {grapheme: "fai", phonemes: [ca/f, ca/a, ca/ii]}
+- {grapheme: "faai", phonemes: [ca/f, ca/aa, ca/ii]}
+- {grapheme: "fiu", phonemes: [ca/f, ca/iu]}
+- {grapheme: "fou", phonemes: [ca/f, ca/o, ca/U]}
+- {grapheme: "fau", phonemes: [ca/f, ca/a, ca/U]}
+- {grapheme: "faau", phonemes: [ca/f, ca/aa, ca/U]}
+- {grapheme: "fip", phonemes: [ca/f, ca/i, ca/P]}
+- {grapheme: "fit", phonemes: [ca/f, ca/i, ca/T]}
+- {grapheme: "fik", phonemes: [ca/f, ca/i, ca/K]}
+- {grapheme: "fyut", phonemes: [ca/f, ca/yu, ca/T]}
+- {grapheme: "fut", phonemes: [ca/f, ca/u, ca/T]}
+- {grapheme: "fuk", phonemes: [ca/f, ca/u, ca/K]}
+- {grapheme: "fek", phonemes: [ca/f, ca/e, ca/K]}
+- {grapheme: "feot", phonemes: [ca/f, ca/eo, ca/T]}
+- {grapheme: "foek", phonemes: [ca/f, ca/oe, ca/K]}
+- {grapheme: "fot", phonemes: [ca/f, ca/o, ca/T]}
+- {grapheme: "fok", phonemes: [ca/f, ca/o, ca/K]}
+- {grapheme: "fap", phonemes: [ca/f, ca/a, ca/P]}
+- {grapheme: "fat", phonemes: [ca/f, ca/a, ca/T]}
+- {grapheme: "fak", phonemes: [ca/f, ca/a, ca/K]}
+- {grapheme: "faap", phonemes: [ca/f, ca/aa, ca/P]}
+- {grapheme: "faat", phonemes: [ca/f, ca/aa, ca/T]}
+- {grapheme: "faak", phonemes: [ca/f, ca/aa, ca/K]}
+- {grapheme: "ha", phonemes: [ca/h, ca/a]}
+- {grapheme: "hi", phonemes: [ca/h, ca/i]}
+- {grapheme: "hyu", phonemes: [ca/h, ca/yu]}
+- {grapheme: "hu", phonemes: [ca/h, ca/u]}
+- {grapheme: "he", phonemes: [ca/h, ca/e]}
+- {grapheme: "hoe", phonemes: [ca/h, ca/oe]}
+- {grapheme: "ho", phonemes: [ca/h, ca/o]}
+- {grapheme: "haa", phonemes: [ca/h, ca/aa]}
+- {grapheme: "him", phonemes: [ca/h, ca/i, ca/M]}
+- {grapheme: "hin", phonemes: [ca/h, ca/i, ca/N]}
+- {grapheme: "hing", phonemes: [ca/h, ca/i, ca/NG]}
+- {grapheme: "hyun", phonemes: [ca/h, ca/yu, ca/N]}
+- {grapheme: "hun", phonemes: [ca/h, ca/u, ca/N]}
+- {grapheme: "hung", phonemes: [ca/h, ca/u, ca/NG]}
+- {grapheme: "heng", phonemes: [ca/h, ca/e, ca/NG]}
+- {grapheme: "heon", phonemes: [ca/h, ca/eo, ca/N]}
+- {grapheme: "hoeng", phonemes: [ca/h, ca/oe, ca/NG]}
+- {grapheme: "hon", phonemes: [ca/h, ca/o, ca/N]}
+- {grapheme: "hong", phonemes: [ca/h, ca/o, ca/NG]}
+- {grapheme: "ham", phonemes: [ca/h, ca/a, ca/M]}
+- {grapheme: "han", phonemes: [ca/h, ca/a, ca/N]}
+- {grapheme: "hang", phonemes: [ca/h, ca/a, ca/NG]}
+- {grapheme: "haam", phonemes: [ca/h, ca/aa, ca/M]}
+- {grapheme: "haan", phonemes: [ca/h, ca/aa, ca/N]}
+- {grapheme: "haang", phonemes: [ca/h, ca/aa, ca/NG]}
+- {grapheme: "hui", phonemes: [ca/h, ca/ui]}
+- {grapheme: "hei", phonemes: [ca/h, ca/e, ca/ii]}
+- {grapheme: "heoi", phonemes: [ca/h, ca/eo, ca/ii]}
+- {grapheme: "hoi", phonemes: [ca/h, ca/o, ca/ii]}
+- {grapheme: "hai", phonemes: [ca/h, ca/a, ca/ii]}
+- {grapheme: "haai", phonemes: [ca/h, ca/aa, ca/ii]}
+- {grapheme: "hiu", phonemes: [ca/h, ca/iu]}
+- {grapheme: "hou", phonemes: [ca/h, ca/o, ca/U]}
+- {grapheme: "hau", phonemes: [ca/h, ca/a, ca/U]}
+- {grapheme: "haau", phonemes: [ca/h, ca/aa, ca/U]}
+- {grapheme: "hip", phonemes: [ca/h, ca/i, ca/P]}
+- {grapheme: "hit", phonemes: [ca/h, ca/i, ca/T]}
+- {grapheme: "hik", phonemes: [ca/h, ca/i, ca/K]}
+- {grapheme: "hyut", phonemes: [ca/h, ca/yu, ca/T]}
+- {grapheme: "hut", phonemes: [ca/h, ca/u, ca/T]}
+- {grapheme: "huk", phonemes: [ca/h, ca/u, ca/K]}
+- {grapheme: "hek", phonemes: [ca/h, ca/e, ca/K]}
+- {grapheme: "heot", phonemes: [ca/h, ca/eo, ca/T]}
+- {grapheme: "hoek", phonemes: [ca/h, ca/oe, ca/K]}
+- {grapheme: "hot", phonemes: [ca/h, ca/o, ca/T]}
+- {grapheme: "hok", phonemes: [ca/h, ca/o, ca/K]}
+- {grapheme: "hap", phonemes: [ca/h, ca/a, ca/P]}
+- {grapheme: "hat", phonemes: [ca/h, ca/a, ca/T]}
+- {grapheme: "hak", phonemes: [ca/h, ca/a, ca/K]}
+- {grapheme: "haap", phonemes: [ca/h, ca/aa, ca/P]}
+- {grapheme: "haat", phonemes: [ca/h, ca/aa, ca/T]}
+- {grapheme: "haak", phonemes: [ca/h, ca/aa, ca/K]}
+- {grapheme: "za", phonemes: [ca/z, ca/a]}
+- {grapheme: "zi", phonemes: [ca/z, ca/i]}
+- {grapheme: "zyu", phonemes: [ca/z, ca/yu]}
+- {grapheme: "zu", phonemes: [ca/z, ca/u]}
+- {grapheme: "ze", phonemes: [ca/z, ca/e]}
+- {grapheme: "zoe", phonemes: [ca/z, ca/oe]}
+- {grapheme: "zo", phonemes: [ca/z, ca/o]}
+- {grapheme: "zaa", phonemes: [ca/z, ca/aa]}
+- {grapheme: "zim", phonemes: [ca/z, ca/i, ca/M]}
+- {grapheme: "zin", phonemes: [ca/z, ca/i, ca/N]}
+- {grapheme: "zing", phonemes: [ca/z, ca/i, ca/NG]}
+- {grapheme: "zyun", phonemes: [ca/z, ca/yu, ca/N]}
+- {grapheme: "zun", phonemes: [ca/z, ca/u, ca/N]}
+- {grapheme: "zung", phonemes: [ca/z, ca/u, ca/NG]}
+- {grapheme: "zeng", phonemes: [ca/z, ca/e, ca/NG]}
+- {grapheme: "zeon", phonemes: [ca/z, ca/eo, ca/N]}
+- {grapheme: "zoeng", phonemes: [ca/z, ca/oe, ca/NG]}
+- {grapheme: "zon", phonemes: [ca/z, ca/o, ca/N]}
+- {grapheme: "zong", phonemes: [ca/z, ca/o, ca/NG]}
+- {grapheme: "zam", phonemes: [ca/z, ca/a, ca/M]}
+- {grapheme: "zan", phonemes: [ca/z, ca/a, ca/N]}
+- {grapheme: "zang", phonemes: [ca/z, ca/a, ca/NG]}
+- {grapheme: "zaam", phonemes: [ca/z, ca/aa, ca/M]}
+- {grapheme: "zaan", phonemes: [ca/z, ca/aa, ca/N]}
+- {grapheme: "zaang", phonemes: [ca/z, ca/aa, ca/NG]}
+- {grapheme: "zui", phonemes: [ca/z, ca/ui]}
+- {grapheme: "zei", phonemes: [ca/z, ca/e, ca/ii]}
+- {grapheme: "zeoi", phonemes: [ca/z, ca/eo, ca/ii]}
+- {grapheme: "zoi", phonemes: [ca/z, ca/o, ca/ii]}
+- {grapheme: "zai", phonemes: [ca/z, ca/a, ca/ii]}
+- {grapheme: "zaai", phonemes: [ca/z, ca/aa, ca/ii]}
+- {grapheme: "ziu", phonemes: [ca/z, ca/iu]}
+- {grapheme: "zou", phonemes: [ca/z, ca/o, ca/U]}
+- {grapheme: "zau", phonemes: [ca/z, ca/a, ca/U]}
+- {grapheme: "zaau", phonemes: [ca/z, ca/aa, ca/U]}
+- {grapheme: "zip", phonemes: [ca/z, ca/i, ca/P]}
+- {grapheme: "zit", phonemes: [ca/z, ca/i, ca/T]}
+- {grapheme: "zik", phonemes: [ca/z, ca/i, ca/K]}
+- {grapheme: "zyut", phonemes: [ca/z, ca/yu, ca/T]}
+- {grapheme: "zut", phonemes: [ca/z, ca/u, ca/T]}
+- {grapheme: "zuk", phonemes: [ca/z, ca/u, ca/K]}
+- {grapheme: "zek", phonemes: [ca/z, ca/e, ca/K]}
+- {grapheme: "zeot", phonemes: [ca/z, ca/eo, ca/T]}
+- {grapheme: "zoek", phonemes: [ca/z, ca/oe, ca/K]}
+- {grapheme: "zot", phonemes: [ca/z, ca/o, ca/T]}
+- {grapheme: "zok", phonemes: [ca/z, ca/o, ca/K]}
+- {grapheme: "zap", phonemes: [ca/z, ca/a, ca/P]}
+- {grapheme: "zat", phonemes: [ca/z, ca/a, ca/T]}
+- {grapheme: "zak", phonemes: [ca/z, ca/a, ca/K]}
+- {grapheme: "zaap", phonemes: [ca/z, ca/aa, ca/P]}
+- {grapheme: "zaat", phonemes: [ca/z, ca/aa, ca/T]}
+- {grapheme: "zaak", phonemes: [ca/z, ca/aa, ca/K]}
+- {grapheme: "ca", phonemes: [ca/c, ca/a]}
+- {grapheme: "ci", phonemes: [ca/c, ca/i]}
+- {grapheme: "cyu", phonemes: [ca/c, ca/yu]}
+- {grapheme: "cu", phonemes: [ca/c, ca/u]}
+- {grapheme: "ce", phonemes: [ca/c, ca/e]}
+- {grapheme: "coe", phonemes: [ca/c, ca/oe]}
+- {grapheme: "co", phonemes: [ca/c, ca/o]}
+- {grapheme: "caa", phonemes: [ca/c, ca/aa]}
+- {grapheme: "cim", phonemes: [ca/c, ca/i, ca/M]}
+- {grapheme: "cin", phonemes: [ca/c, ca/i, ca/N]}
+- {grapheme: "cing", phonemes: [ca/c, ca/i, ca/NG]}
+- {grapheme: "cyun", phonemes: [ca/c, ca/yu, ca/N]}
+- {grapheme: "cun", phonemes: [ca/c, ca/u, ca/N]}
+- {grapheme: "cung", phonemes: [ca/c, ca/u, ca/NG]}
+- {grapheme: "ceng", phonemes: [ca/c, ca/e, ca/NG]}
+- {grapheme: "ceon", phonemes: [ca/c, ca/eo, ca/N]}
+- {grapheme: "coeng", phonemes: [ca/c, ca/oe, ca/NG]}
+- {grapheme: "con", phonemes: [ca/c, ca/o, ca/N]}
+- {grapheme: "cong", phonemes: [ca/c, ca/o, ca/NG]}
+- {grapheme: "cam", phonemes: [ca/c, ca/a, ca/M]}
+- {grapheme: "can", phonemes: [ca/c, ca/a, ca/N]}
+- {grapheme: "cang", phonemes: [ca/c, ca/a, ca/NG]}
+- {grapheme: "caam", phonemes: [ca/c, ca/aa, ca/M]}
+- {grapheme: "caan", phonemes: [ca/c, ca/aa, ca/N]}
+- {grapheme: "caang", phonemes: [ca/c, ca/aa, ca/NG]}
+- {grapheme: "cui", phonemes: [ca/c, ca/ui]}
+- {grapheme: "cei", phonemes: [ca/c, ca/e, ca/ii]}
+- {grapheme: "ceoi", phonemes: [ca/c, ca/eo, ca/ii]}
+- {grapheme: "coi", phonemes: [ca/c, ca/o, ca/ii]}
+- {grapheme: "cai", phonemes: [ca/c, ca/a, ca/ii]}
+- {grapheme: "caai", phonemes: [ca/c, ca/aa, ca/ii]}
+- {grapheme: "ciu", phonemes: [ca/c, ca/iu]}
+- {grapheme: "cou", phonemes: [ca/c, ca/o, ca/U]}
+- {grapheme: "cau", phonemes: [ca/c, ca/a, ca/U]}
+- {grapheme: "caau", phonemes: [ca/c, ca/aa, ca/U]}
+- {grapheme: "cip", phonemes: [ca/c, ca/i, ca/P]}
+- {grapheme: "cit", phonemes: [ca/c, ca/i, ca/T]}
+- {grapheme: "cik", phonemes: [ca/c, ca/i, ca/K]}
+- {grapheme: "cyut", phonemes: [ca/c, ca/yu, ca/T]}
+- {grapheme: "cut", phonemes: [ca/c, ca/u, ca/T]}
+- {grapheme: "cuk", phonemes: [ca/c, ca/u, ca/K]}
+- {grapheme: "cek", phonemes: [ca/c, ca/e, ca/K]}
+- {grapheme: "ceot", phonemes: [ca/c, ca/eo, ca/T]}
+- {grapheme: "coek", phonemes: [ca/c, ca/oe, ca/K]}
+- {grapheme: "cot", phonemes: [ca/c, ca/o, ca/T]}
+- {grapheme: "cok", phonemes: [ca/c, ca/o, ca/K]}
+- {grapheme: "cap", phonemes: [ca/c, ca/a, ca/P]}
+- {grapheme: "cat", phonemes: [ca/c, ca/a, ca/T]}
+- {grapheme: "cak", phonemes: [ca/c, ca/a, ca/K]}
+- {grapheme: "caap", phonemes: [ca/c, ca/aa, ca/P]}
+- {grapheme: "caat", phonemes: [ca/c, ca/aa, ca/T]}
+- {grapheme: "caak", phonemes: [ca/c, ca/aa, ca/K]}
