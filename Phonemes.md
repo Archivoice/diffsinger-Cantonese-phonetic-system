@@ -45,7 +45,7 @@ Consonant List: `b`,`c`,`d`,`f`,`g`,`h`,`j`,`K`,`k`,`l`,`M`,`m`,`N`,`n`,`NG`,`ng
 |   z      |        | **z**a  |
 
 ###
-Vowel List: `a`,`A`,`e`,`E`,`er`,`i`,`I`,`i0`,`ia`,`iA`,`iO`,`ih`,`ii`,`O`,`u`,`U`,`ua`,`uA`,`uE`,`uo`,`V`,`yI`,`yE`,`yu`
+Vowel List: `a`,`aa`,`e`,`eo`,`eu`,`i`,`ii`,`iu`,`o`,`oe`,`u`,`U`,`ui`,`yu`
 
 > the part where the phoneme is used will be in bold for marking
 
@@ -62,7 +62,7 @@ Vowel List: `a`,`A`,`e`,`E`,`er`,`i`,`I`,`i0`,`ia`,`iA`,`iO`,`ih`,`ii`,`O`,`u`,`
 |  o      |        | c**o**    |
 |  oe     |        | c**oe**   |
 |  u      |        | c**u**    |
-|         |   U    | do**u*    |
+|         |   U    | do**u**   |
 |  ui     |        | g**ui**   |
 |  yu     |        | s**yu**t  |
 
