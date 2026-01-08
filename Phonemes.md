@@ -27,14 +27,14 @@ Consonant List: `b`,`c`,`d`,`f`,`g`,`h`,`j`,`K`,`k`,`l`,`M`,`m`,`N`,`n`,`NG`,`ng
 |   g      |        | **g**a  |
 |   h      |        | **h**a  |
 |   j      |        | **j**a  |
-|          |   K    | **j**ia |
-|   k      |        | a**k**  |
+|          |   K    | a**k**  |
+|   k      |        | **k**a  |
 |   l      |        | **l**a  |
 |          |   M    | a**m**  |
 |   m      |        | **m**a  |
 |          |   N    | a**n**  |
 |   n      |        | **n**a  |
-|          |   NG   | **a**ng |
+|          |   NG   | a**ng** |
 |   ng     |        | **ng**a |
 |          |   P    | a**p**  |
 |   p      |        | **p**a  |
@@ -74,3 +74,4 @@ Vowel List: `a`,`aa`,`e`,`eo`,`eu`,`i`,`ii`,`iu`,`o`,`oe`,`u`,`U`,`ui`,`yu`
 | :----------------: | :-------: | :---------------------------------------------------------------------------------------: |
 | tongue click sound |    mlem   | a clicking sound the tongue makes sometimes when taking a breath, used together with `AP` |
 | unvoiced sounds    |    hx     | generalized unvoiced sound used... wherever |
+
