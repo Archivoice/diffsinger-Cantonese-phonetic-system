@@ -31,7 +31,7 @@ M	M
 N	N
 NG	NG
 ng	ng
-y	y
 P	P
 T	T
 K	K
+
