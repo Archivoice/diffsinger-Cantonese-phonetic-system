@@ -40,7 +40,6 @@ symbols:
 - {symbol: ca/N, type: nasal}
 - {symbol: ca/NG, type: nasal}
 - {symbol: ca/ng, type: nasal}
-- {symbol: ca/y, type: semivowel}
 - {symbol: ca/P, type: stop}
 - {symbol: ca/T, type: stop}
 - {symbol: ca/K, type: stop}
@@ -1085,4 +1084,5 @@ entries:
 - {grapheme: "cak", phonemes: [ca/c, ca/a, ca/K]}
 - {grapheme: "caap", phonemes: [ca/c, ca/aa, ca/P]}
 - {grapheme: "caat", phonemes: [ca/c, ca/aa, ca/T]}
+
 - {grapheme: "caak", phonemes: [ca/c, ca/aa, ca/K]}
